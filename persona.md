@@ -1,7 +1,7 @@
 # Persona
 
 ## Who is the user?
-Amir, 19, is a first-year University of Hertfordshire student living in Hatfield. He has a tight budget, no car and a busy timetable. He used to play football at school but has done very little exercise since starting university.
+james, 19, is a first-year University of Hertfordshire student living in Hatfield. He has a tight budget, no car and a busy timetable. He used to play football at school but has done very little exercise since starting university.
 
 ## What does he need?
 - Free or cheap ways to get active near campus
